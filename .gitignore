@@ -1,0 +1,7 @@
+data/
+train/
+test/
+intent_*.csv
+sample_submission.csv
+__pycache__/
+.ipynb_checkpoints/

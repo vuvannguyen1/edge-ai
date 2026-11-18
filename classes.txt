@@ -1,0 +1,7 @@
+bottle
+cup
+phone
+book
+mouse
+box
+toy_car

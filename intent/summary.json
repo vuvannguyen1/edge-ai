@@ -1,0 +1,29 @@
+{
+  "git_commit": "70eb7a6",
+  "argv": [
+    "pipeline/intent/train_intent.py",
+    "--data",
+    ".",
+    "--out",
+    "runs/intent_v2"
+  ],
+  "imgsz": null,
+  "cv_acc": 1.0,
+  "cv_comp_count": 1.0,
+  "cv_comp_exist": 1.0,
+  "cv_comp_location": 1.0,
+  "best_epoch": 31,
+  "fold0_float": 1.0,
+  "fold0_int8": 1.0,
+  "params": 28005,
+  "tflite_kb": 39.1015625,
+  "ops": [
+    "CONCATENATION",
+    "CONV_2D",
+    "EXPAND_DIMS",
+    "FULLY_CONNECTED",
+    "GATHER",
+    "REDUCE_MAX",
+    "RESHAPE"
+  ]
+}
